@@ -57,7 +57,7 @@ To explore the analyses:
 2. Open the Excel file: Navigate to the file and open it in Excel.
 3. Explore the sheets: Each sheet contains a different analysis.
 
-##Contributions
+## Contributions
 Contributions are welcome! If you have any improvements or additional analyses to add, please fork the repository and submit a pull request.
 
 ```bash
